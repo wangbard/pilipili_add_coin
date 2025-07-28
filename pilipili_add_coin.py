@@ -9,7 +9,7 @@ ssid = '28747'
 # 这里填写你自身的 cookies
 cookies = {
     'buvid3': 'your_buvid3_here',
-    'bili_jct': 'your_bili_jct_here',
+    'bili_jct': 'your_bili_jct_here', # csrf token
     'SESSDATA': 'your_session_data_here',
 }
 
