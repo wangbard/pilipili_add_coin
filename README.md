@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/146-紫灵-08.png" width="810" alt="Centered image">
+</p>
+
+
 ## warning 声明
 
 1. 此脚本遵守 CC-BY-NC 4.0 协议，禁止一切商业使用，如需转载请注明作者 ID
