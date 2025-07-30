@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/146-紫灵-08.png" width="660" alt="Centered image">
+  <img src="images/146-紫灵-08.png" width="720" alt="Centered image">
 </p>
 
 
